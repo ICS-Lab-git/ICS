@@ -25,7 +25,7 @@
 </pre>
 ### How to use:
 <code>
-sudo ./python3 run.py
+  sudo ./python3 run.py
 </code>
 ### How to training model:
 <pre>
