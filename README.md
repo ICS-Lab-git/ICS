@@ -27,6 +27,7 @@
 <code>
   sudo ./python3 run.py
 </code>
+
 ### How to training model:
 <pre>
 <code>
