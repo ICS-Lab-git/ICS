@@ -18,10 +18,10 @@ sudo ./start.sh</code></pre>
 
 ### How to use
 <pre><code>cd CSCA_Detection
-sudo ./python3 run.py</code></pre>
+sudo python3 run.py</code></pre>
 
 ### How to training model
-<pre><code> sudo ./python3 training.py [trainig file path]</code></pre>
+<pre><code> sudo python3 training.py [trainig file path]</code></pre>
 
 
 ## What is Framework?
@@ -39,7 +39,7 @@ sudo ./start.sh</code></pre>
 The detection program and telegraf should be run simultaneously.
 ### How to run the detection program
 <pre><code>cd CSCA_Detection
-sudo ./python3 run.py</code></pre>
+sudo python3 run.py</code></pre>
 
 ### How to run telegraf
 <pre><code>cd telegraf
