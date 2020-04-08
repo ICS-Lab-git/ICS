@@ -9,10 +9,8 @@
 
 ## Usage
 <pre>
-<code>
-  git clone https://github.com/ICS-Lab-git/ICS.git
-  
-  tar -xvf ICSL_Detector.tar
+<code>git clone https://github.com/ICS-Lab-git/ICS.git
+tar -xvf ICSL_Detector.tar
 </code>
 </pre>
 ### How to configure
