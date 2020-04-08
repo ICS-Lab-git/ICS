@@ -4,5 +4,3 @@
 ## Member
 ### Youngjoo Shin Taehyun Kim Taehun Kim Miok Im Soojin Kim
 
-# Usage
-###
