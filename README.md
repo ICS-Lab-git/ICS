@@ -35,7 +35,7 @@ unzip ICSL_Detector2.zip</code></pre>
 chmod 0755 start.sh
 sudo ./start.sh</code></pre>
 
-### The detection program and telegraf should be run simultaneously.
+#### The detection program and telegraf should be run simultaneously.
 ### How to run the detection program
 <pre><code>cd CSCA_Detection
 sudo ./python3 run.py</code></pre>
