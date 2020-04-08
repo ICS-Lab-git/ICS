@@ -4,7 +4,6 @@
 ## Member
 Youngjoo Shin, Taehyun Kim, Taehun Kim, Miok Im, Soojin Kim
 
-
 ## What is ICSL_Detector?
 Real-time detection on FLUSH+RELOAD attack using Performance Counter Monitor
 
@@ -26,7 +25,7 @@ sudo ./python3 run.py</code></pre>
 
 
 ## What is Framework?
-### Framework on Cache Side-channel Attack Detection Using Real-time Monitoring 
+Framework on Cache Side-channel Attack Detection Using Real-time Monitoring 
 
 ## Usage
 <pre><code>git clone https://github.com/ICS-Lab-git/ICS.git
@@ -37,7 +36,7 @@ unzip ICSL_Detector2.zip</code></pre>
 chmod 0755 start.sh
 sudo ./start.sh</code></pre>
 
-#### The detection program and telegraf should be run simultaneously.
+The detection program and telegraf should be run simultaneously.
 ### How to run the detection program
 <pre><code>cd CSCA_Detection
 sudo ./python3 run.py</code></pre>
