@@ -21,7 +21,7 @@ sudo ./start.sh</code></pre>
 sudo ./python3 run.py</code></pre>
 
 ### How to training model
-<code>./python3 training.py [trainig file path]</code>
+<pre><code>./python3 training.py [trainig file path]</code></pre>
 
 ## What is Framework?
 ### Framework on Cache Side-channel Attack Detection Using Real-time Monitoring 
