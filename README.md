@@ -8,7 +8,6 @@
 #### Real-time detection on FLUSH+RELOAD attack using Performance Counter Monitor
 
 ## Usage
-<pre>
 <code>
   git clone https://github.com/ICS-Lab-git/ICS.git
   
@@ -22,18 +21,17 @@
   
   cd CSCA_Detection
 </code>
-</pre>
+
 ### How to use:
 <code>
   sudo ./python3 run.py
 </code>
 
 ### How to training model:
-<pre>
 <code>
 ./python3 training.py [trainig file path]
 </code>
-</pre>
+
 
 ## What is Framework?
 ### Framework on Cache Side-channel Attack Detection Using Real-time Monitoring 
