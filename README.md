@@ -26,14 +26,6 @@
 
 ### How to training model:
   ./python3 training.py [trainig file path]
-  
-#### To training this machine learning model, using Intel PCM as CSV mode. (./pcm-icsl -e icsl -csv=[path]). And then, add to data to training_file.csv. Order of csv data like this.
-
-#### IPC,L1MISS,L2MISS,L3MISS,Branch,Result
-  Result - 0 : Normal state
-  1 : FLUSH+RELOAD attack
-  2 : FLUSH+FLUSH  attack
-  3 : PRIME+PROBE  attack
 
 
 ## What is Framework?
