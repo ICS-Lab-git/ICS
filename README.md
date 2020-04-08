@@ -9,7 +9,7 @@
 
 ## Usage
 ### Clone the repo:
-  git clone
+  git clone https://github.com/ICS-Lab-git/ICS.git
   
   tar -xvf ICSL_Detector.tar
   
