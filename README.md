@@ -8,7 +8,8 @@
 #### Real-time detection on FLUSH+RELOAD attack using Performance Counter Monitor
 
 ## Usage
-### Clone the repo:
+<pre>
+<code>
   git clone https://github.com/ICS-Lab-git/ICS.git
   
   tar -xvf ICSL_Detector.tar
@@ -20,7 +21,8 @@
   sudo ./start.sh
   
   cd CSCA_Detection
-  
+</code>
+</pre>
 ### How to use:
   sudo ./python3 run.py
 
