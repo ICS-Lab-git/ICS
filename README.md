@@ -8,11 +8,8 @@
 #### Real-time detection on FLUSH+RELOAD attack using Performance Counter Monitor
 
 ## Usage
-<pre>
-<code>git clone https://github.com/ICS-Lab-git/ICS.git
-tar -xvf ICSL_Detector.tar
-</code>
-</pre>
+<pre><code>git clone https://github.com/ICS-Lab-git/ICS.git
+tar -xvf ICSL_Detector.tar</code></pre>
 ### How to configure
 <pre>
 <code>
