@@ -21,7 +21,7 @@ sudo ./start.sh</code></pre>
 sudo ./python3 run.py</code></pre>
 
 ### How to training model
-<pre><code>./python3 training.py [trainig file path]</code></pre>
+<pre><code> sudo ./python3 training.py [trainig file path]</code></pre>
 
 
 ## What is Framework?
