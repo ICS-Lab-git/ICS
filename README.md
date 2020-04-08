@@ -26,13 +26,13 @@
 ### How to use:
 <pre>
 <code>
-  sudo ./python3 run.py
+sudo ./python3 run.py
 </code>
 </pre>
 ### How to training model:
 <pre>
 <code>
-  ./python3 training.py [trainig file path]
+./python3 training.py [trainig file path]
 </code>
 </pre>
 
